@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feature/horizon-cursor-checkpointing",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feature/horizon-cursor-checkpointing": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feature/horizon-cursor-checkpointing",
+    "origin"
+  ]
+}
